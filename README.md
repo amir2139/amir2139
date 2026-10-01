@@ -2,9 +2,9 @@
 
 # Amir Homayoon
 
-**Desktop & web app developer** — fast native tools, clean interfaces, things people actually use.
+**Software · Web · Game developer & SEO specialist** — fast native tools, clean interfaces, things people actually use.
 
-<sub>سازندهٔ اپلیکیشن‌های دسکتاپ و وب — ابزارهای سریع، رابط‌های تمیز، چیزهایی که واقعاً به کار می‌آیند.</sub>
+<sub>طراح نرم‌افزار، سایت و بازی · متخصص سئو — ابزارهای سریع، رابط‌های تمیز، چیزهایی که واقعاً به کار می‌آیند.</sub>
 
 <br>
 
@@ -14,37 +14,50 @@
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Roblox](https://img.shields.io/badge/Roblox_/_Luau-000000?style=flat-square&logo=roblox&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-4285F4?style=flat-square&logo=google&logoColor=white)
 
 </div>
 
 ---
 
-### What I build
+### What I do
 
-- **Desktop apps** with Rust + Tauri — small, fast, native on Windows and Android
-- **Full-stack web platforms** with Next.js, Node.js and PostgreSQL, shipped with Docker
-- **Real-time features** — chat, voice and video with WebRTC / LiveKit
+- 🖥️ **Software & utility apps** — desktop tools for Windows and Android with Rust, Tauri and Electron
+- 🌐 **Web design & full-stack platforms** — Next.js, Node.js, PostgreSQL, shipped with Docker
+- 🎮 **Game design** — games for Android and PC
+- 📈 **SEO** — technical SEO, structured data (Schema.org), sitemaps and content that ranks
+- 🔊 **Real-time features** — chat, voice and video with WebRTC / LiveKit
 
 <div dir="rtl">
 
-### چه می‌سازم
+### چه کار می‌کنم
 
-- **اپ‌های دسکتاپ** با Rust و Tauri — سبک، سریع و بومی روی ویندوز و اندروید
-- **پلتفرم‌های وب کامل** با Next.js، Node.js و PostgreSQL، روی Docker
-- **قابلیت‌های بلادرنگ** — چت، تماس صوتی و تصویری با WebRTC / LiveKit
+- 🖥️ **طراحی نرم‌افزار و ابزارهای کاربردی** — اپ‌های دسکتاپ ویندوز و اندروید با Rust، Tauri و Electron
+- 🌐 **طراحی سایت و پلتفرم‌های وب کامل** — Next.js، Node.js و PostgreSQL روی Docker
+- 🎮 **طراحی بازی** — بازی برای اندروید و کامپیوتر
+- 📈 **سئو** — سئوی فنی، داده‌های ساختاریافته، نقشهٔ سایت و محتوای رتبه‌گیر
+- 🔊 **قابلیت‌های بلادرنگ** — چت، تماس صوتی و تصویری با WebRTC / LiveKit
 
 </div>
 
 ---
 
-### Featured
+### Apps · برنامه‌ها
 
-**[HomiNET](https://github.com/amir2139/HomiNET)** — a beautiful, all-in-one secure connectivity client for Windows & Android
-<br><sub>اتصال آزاد، امن و پایدار برای ویندوز و اندروید</sub>
+| | |
+|---|---|
+| [**Ghalam Bartar**](https://github.com/amir2139/GhalamBartar-App) · قلم برتر | School platform — live classes, messenger, grades, exams · <sub>پنل هوشمند مدرسه</sub> |
+| [**Qalam Class**](https://github.com/amir2139/QalamClass-App) · قلم کلاس | Run and sell your own online classes · <sub>کلاس آنلاین خودت را بساز و بفروش</sub> |
+| [**HomiGAP**](https://github.com/amir2139/HomiGAP-App) · هومی گپ | Voice & video hangouts with friends · <sub>گپ صوتی و تصویری با دوستان</sub> |
+| [**HomiNET**](https://github.com/amir2139/HomiNET) | All-in-one secure connectivity client · <sub>اتصال آزاد، امن و پایدار</sub> |
+
+<sub>Windows · Android · Web downloads are on each app's page.</sub>
 
 <div align="center">
 <br>
-<sub>Most of my work lives in private repositories.</sub>
+<sub>Most of my source code lives in private repositories.</sub>
 </div>
