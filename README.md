@@ -41,9 +41,8 @@
 
 ### Featured
 
-| Project | |
-|---|---|
-| [**HomiNET**](https://github.com/amir2139/HomiNET) | A beautiful, all-in-one secure connectivity client for Windows & Android · <sub>اتصال آزاد، امن و پایدار</sub> |
+**[HomiNET](https://github.com/amir2139/HomiNET)** — a beautiful, all-in-one secure connectivity client for Windows & Android
+<br><sub>اتصال آزاد، امن و پایدار برای ویندوز و اندروید</sub>
 
 <div align="center">
 <br>
