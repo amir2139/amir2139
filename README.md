@@ -1,6 +1,6 @@
 <div align="center">
 
-# Amir Homayoon · امیر همایون
+# Amir Homayoun · امیر همایون
 
 **Software · Web · Game developer & SEO specialist** — fast native tools, clean interfaces, things people actually use.
 
