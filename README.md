@@ -58,7 +58,7 @@ Free, MIT-licensed, private by design — no tracking, and most of them work ful
 | Tool | What it does | کاربرد |
 |---|---|---|
 | [**HomiTranslate**](https://github.com/amir2139/HomiTranslate) | Smart assistant for translating game text into Persian or any language — local AI (Ollama), any OpenAI-compatible API, or free chat sites | دستیار هوشمند ترجمهٔ متن بازی‌ها با هوش مصنوعی رایگان |
-| [**HomiKey**](https://github.com/amir2139/HomiKey) | Fix text typed in the wrong keyboard layout with one hotkey | اصلاح متنی که با زبان اشتباه کیبورد تایپ شده، با یک کلید |
+| [**HomiKey**](https://github.com/amir2139/HomiKey) · [web](https://amir2139.github.io/HomiKey/) | Fix text typed in the wrong keyboard layout with one hotkey | اصلاح متنی که با زبان اشتباه کیبورد تایپ شده، با یک کلید |
 | [**HomiShaper**](https://github.com/amir2139/HomiShaper) · [demo](https://amir2139.github.io/HomiShaper/) | Shape Persian text for engines without RTL support (Unity, video editors) | فارسی‌ساز متن برای بازی‌سازی و تدوین ویدیو |
 | [**HomiSub**](https://github.com/amir2139/HomiSub) · [demo](https://amir2139.github.io/HomiSub/) | Repair broken Persian subtitles — encoding, timing, format conversion | درست‌کن زیرنویس فارسی: حروف به‌هم‌ریخته، زمان‌بندی، تبدیل فرمت |
 | [**HomiInvoice**](https://github.com/amir2139/HomiInvoice) · [demo](https://amir2139.github.io/HomiInvoice/) | Bilingual invoice maker with Jalali dates and amount in words | فاکتورساز دوزبانه با تاریخ شمسی و مبلغ به حروف |
