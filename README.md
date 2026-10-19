@@ -78,6 +78,7 @@ Free, MIT-licensed, private by design — no tracking, and most of them work ful
 | [**Qalam Class**](https://github.com/amir2139/QalamClass-App) | Run and sell your own online classes | قلم کلاس — کلاس آنلاین خودت را بساز و بفروش |
 | [**HomiGAP**](https://github.com/amir2139/HomiGAP-App) | Voice & video hangouts with friends | هومی گپ — گپ صوتی و تصویری با دوستان |
 | [**HomiNET**](https://github.com/amir2139/HomiNET) | All-in-one secure connectivity client | هومی نت — اتصال آزاد، امن و پایدار |
+| [**HomiOptimizer**](https://github.com/amir2139/HomiOptimizer) | All-in-one Persian Windows optimizer & PC cleaner | هومی‌اپتیمایزر — بهینه‌ساز و پاکساز هوشمند ویندوز |
 
 <sub>Windows · Android · Web downloads are on each app's page. · لینک دانلود ویندوز، اندروید و وب در صفحهٔ هر برنامه است.</sub>
 
