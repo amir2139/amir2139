@@ -1,12 +1,13 @@
 <div align="center">
 
-# Amir Homayoun · امیر همایون
+# Amir Homayoun Esmaeili · امیر همایون اسمعیلی
 
-**Software · Web · Game developer & SEO specialist** — fast native tools, clean interfaces, things people actually use.
+**Programmer · Software, Web & Game developer · SEO specialist** — fast native tools, clean interfaces, things people actually use.
 
-<sub>طراح نرم‌افزار، سایت و بازی · متخصص سئو — ابزارهای سریع، رابط‌های تمیز، چیزهایی که واقعاً به کار می‌آیند.</sub>
+<sub>امیر همایون اسمعیلی — برنامه‌نویس و مهندس نرم‌افزار، طراح سایت و بازی، متخصص سئو — ابزارهای سریع، رابط‌های تمیز، چیزهایی که واقعاً به کار می‌آیند.</sub>
 
-🌐 **[amir2139.github.io](https://amir2139.github.io/)**
+🌐 **[amirhomayoun.ir](https://amirhomayoun.ir/)** — website & portfolio · سایت شخصی و نمونه‌کارها
+<br><sub>Also: [amir2139.github.io](https://amir2139.github.io/)</sub>
 
 <br>
 
@@ -74,9 +75,11 @@ Free, MIT-licensed, private by design — no tracking, and most of them work ful
 
 | App | What it is | برنامه |
 |---|---|---|
-| [**Ghalam Bartar**](https://github.com/amir2139/GhalamBartar-App) | School platform — live classes, messenger, grades, exams | قلم برتر — پنل هوشمند مدرسه |
-| [**Qalam Class**](https://github.com/amir2139/QalamClass-App) | Run and sell your own online classes | قلم کلاس — کلاس آنلاین خودت را بساز و بفروش |
-| [**HomiGAP**](https://github.com/amir2139/HomiGAP-App) | Voice & video hangouts with friends | هومی گپ — گپ صوتی و تصویری با دوستان |
+| [**Ghalam Bartar**](https://github.com/amir2139/GhalamBartar-App) · [web](https://ghalambartar.com/) | School platform — live classes, messenger, grades, exams | قلم برتر — پنل هوشمند مدرسه |
+| [**Qalam Class**](https://github.com/amir2139/QalamClass-App) · [web](https://class.ghalambartar.com/) | Run and sell your own online classes | قلم کلاس — کلاس آنلاین خودت را بساز و بفروش |
+| [**HomiGAP**](https://github.com/amir2139/HomiGAP-App) · [web](https://homigap.ghalambartar.com/) | Voice & video hangouts with friends | هومی گپ — گپ صوتی و تصویری با دوستان |
+| [**Daftar-e Moallem**](https://daftar.ghalambartar.com/) | Private tutor's notebook — schedule, session notes, homework, tuition | دفتر معلم — دفتر کار معلم خصوصی |
+| [**HomiAPK**](https://homiapk.ghalambartar.com/) | Visual no-code Android app builder, fully offline | هومی‌ای‌پی‌کا — اپ‌ساز اندروید بدون کدنویسی |
 | [**HomiNET**](https://github.com/amir2139/HomiNET) | All-in-one secure connectivity client | هومی نت — اتصال آزاد، امن و پایدار |
 | [**HomiOptimizer**](https://github.com/amir2139/HomiOptimizer) | All-in-one Persian Windows optimizer & PC cleaner | هومی‌اپتیمایزر — بهینه‌ساز و پاکساز هوشمند ویندوز |
 
